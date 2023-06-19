@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fa14308-9439-4390-871b-3c5c510d9e7b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q0IVkA4McrCuI6e0uN7UMwOQAM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anjarul/Desktop/anjarul/proIT/ToDoAppAngular/backend/toDoSpringBoot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;5f79b139c7e5c7e39c0debe3f7dd4c48&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/anjarul/toDo/domains/toDo" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/anjarul/toDo" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/anjarul/toDo/domains/base/controllers" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/anjarul/toDo/domains/base" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/anjarul/toDo/domains/toDo/controllers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.anjarul.toDo.exceptions" />
+      <recent name="com.anjarul.toDo.domains.toDo.models.enums" />
+      <recent name="com.anjarul.toDo.domains.toDo.repositories" />
+      <recent name="com.anjarul.toDo.domains.toDo.models.dtos" />
+      <recent name="com.anjarul.toDo.domains.toDo.models.entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ToDoApplication">
+    <configuration name="ToDoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toDo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anjarul.toDo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anjarul.toDo" />
+      <option name="MAIN_CLASS_NAME" value="com.anjarul.toDo.ToDoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="toDoSpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.anjarul.toDo.ToDoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="toDoSpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.anjarul.toDo.ToDoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ToDoApplicationTests" />
+      <item itemvalue="Spring Boot.ToDoApplication" />
+      <item itemvalue="Spring Boot.ToDoApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ToDoApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa14308-9439-4390-871b-3c5c510d9e7b" name="Changes" comment="" />
+      <created>1684484097986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684484097986</updated>
+      <workItem from="1684484099456" duration="10011000" />
+      <workItem from="1684562961037" duration="430000" />
+      <workItem from="1684564462035" duration="11135000" />
+      <workItem from="1684592741159" duration="734000" />
+      <workItem from="1684595720084" duration="705000" />
+      <workItem from="1685857760664" duration="1724000" />
+      <workItem from="1686026788538" duration="1458000" />
+      <workItem from="1686040360157" duration="62000" />
+      <workItem from="1687152383499" duration="257000" />
+      <workItem from="1687158129063" duration="5816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
